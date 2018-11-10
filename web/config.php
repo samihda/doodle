@@ -19,7 +19,7 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'http://olwyn-moodle-alt.herokuapp.com';
+$CFG->wwwroot   = 'http://olwyn-moodle.herokuapp.com';
 $CFG->dataroot  = '/app/moodledata';
 $CFG->admin     = 'admin';
 
