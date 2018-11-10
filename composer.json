@@ -1,0 +1,12 @@
+{
+  "require" : {
+    "ext-gd": "*",
+    "ext-intl": "*",
+    "ext-xmlrpc": "*",
+    "ext-soap": "*",
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
